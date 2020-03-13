@@ -1,0 +1,5 @@
+1.打开MySQL数据库
+2.在 vue_api_serve文件夹下的config目录下的default文件中修改MySQL数据库的名字，密码，端口号
+3.在 vue_api_serve文件夹中shift+右键，点击powershell窗口
+4.输入 npm install 安装依赖包
+5.输入 node app 运行app.js，这样就可以运行起来，在vue ui中进行编译
